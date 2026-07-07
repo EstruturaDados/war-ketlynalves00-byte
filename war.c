@@ -16,6 +16,7 @@
 
 // Inclusão das bibliotecas padrão necessárias para entrada/saída, alocação de memória, manipulação de strings e tempo.
 
+
 // --- Constantes Globais ---
 // Definem valores fixos para o número de territórios, missões e tamanho máximo de strings, facilitando a manutenção.
 
@@ -38,6 +39,7 @@ int main() {
     // - Aloca a memória para o mapa do mundo e verifica se a alocação foi bem-sucedida.
     // - Preenche os territórios com seus dados iniciais (tropas, donos, etc.).
     // - Define a cor do jogador e sorteia sua missão secreta.
+printf("Ola, mundo!");
 
     // 2. Laço Principal do Jogo (Game Loop):
     // - Roda em um loop 'do-while' que continua até o jogador sair (opção 0) ou vencer.
